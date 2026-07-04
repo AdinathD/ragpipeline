@@ -32,3 +32,5 @@ Thumbs.db
 .python-version.lock
 .pytest_cache/
 .coverage
+
+.env
